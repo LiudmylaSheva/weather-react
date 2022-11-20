@@ -8,7 +8,7 @@ export default function Footer() {
 				{" "}
 				<small>
 					<a
-						href="https://github.com/LiudmylaSheva/Vanilla-Weather-App-by_Liudmyla"
+						href="https://github.com/LiudmylaSheva/weather-react"
 						target="_blank"
 						rel="noreferrer"
 						className="open-source"
