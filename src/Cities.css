@@ -1,0 +1,24 @@
+@media (max-width: 576px) {
+	.Cities {
+		text-align: center;
+		font-size: 16px;
+	}
+}
+
+.cities {
+	font-size: 20px;
+	text-align: center;
+}
+
+.city-stripe,
+.city-1,
+.city-2,
+.city-3,
+.city-4,
+.city-5,
+.city-6,
+.open-source {
+	text-decoration: none;
+	color: #0e1937;
+	transition: 150ms ease-in-out;
+}

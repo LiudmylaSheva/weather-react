@@ -1,0 +1,13 @@
+.weather-body {
+	border: 4px rgba(0, 0, 0, 0.4);
+	max-width: 650px;
+	margin: 80px auto;
+	padding: 30px 40px;
+	border-radius: 20px;
+	box-shadow: 0px 0px 41px 5px rgba(0, 0, 0, 0.4);
+	font-family: "Oxygen Mono", monospace;
+	background: radial-gradient(
+		rgb(213, 167, 201, 0.85) 0%,
+		rgb(170, 131, 172, 0.85) 100%
+	);
+}

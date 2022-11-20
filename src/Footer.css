@@ -1,0 +1,17 @@
+footer {
+	text-align: center;
+	font-family: Consolas;
+	font-weight: bold;
+}
+
+.open-source {
+	text-decoration: none;
+	color: #0e1937;
+	transition: 150ms ease-in-out;
+}
+
+.open-source:hover {
+	text-decoration: none;
+	color: #715c88;
+	transition: 150ms ease-in-out;
+}
